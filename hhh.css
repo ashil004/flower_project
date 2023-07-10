@@ -1,0 +1,15 @@
+.Heading_section {
+    background-color: #E55473.10%;
+    width: 1920px;
+    height: 850px;
+}
+
+.body{
+    background: #E55473;
+}
+
+.img_con {
+    width: 635px;
+    height: 800px;
+    display: flex;
+}
